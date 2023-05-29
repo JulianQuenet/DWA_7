@@ -1,3 +1,2 @@
-# book-connect by Julian Quenet
-Forming part of the Interactive Web Applications course, this being the final project integrating all concepts learnt.
-Purpose of this project is to take previously un-finished and incorrect code and fix it to make the website display and run as intended
+# DWA7
+Forming part of the Dynamic Web Applications course, this being a knowledge check going over the understanding of abstraction 
