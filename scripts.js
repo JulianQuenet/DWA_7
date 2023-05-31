@@ -1,5 +1,5 @@
-import { BOOKS_PER_PAGE, authors, books } from "./data.js";
-import { selectors, css, innerHTML } from "./domData.js";
+import { BOOKS_PER_PAGE, authors, books } from "./modules/data.js";
+import { selectors, css, innerHTML } from "./modules/domData.js";
 import { loadedTracker } from "./modules/helpers.js";
 
 //------------------------------------------------All eventHandlers below-------------------------------------------------------
